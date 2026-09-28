@@ -70,13 +70,15 @@ Business Dashboard  AI Dashboard
 
 ## Business Dashboard
 
-![Business Dashboard](Images/business_dashboard.png)
+![Business Dashboard] <img width="1081" height="756" alt="image" src="https://github.com/user-attachments/assets/52143de4-8725-402b-9c65-eaab11ded45f" />
+
 
 ---
 
 ## AI Prediction Dashboard
 
-![AI Dashboard](Images/ai_dashboard.png)
+![AI Dashboard] <img width="1106" height="742" alt="image" src="https://github.com/user-attachments/assets/cd60d474-8453-49aa-a252-464fcfe5590f" />
+
 
 ---
 
