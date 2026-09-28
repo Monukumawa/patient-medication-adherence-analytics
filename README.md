@@ -174,6 +174,6 @@ Patient-Medication-Adherence-Analytics
 
 # 👩‍💻 Author
 
-**Nikita Chakraborty**
+**Monu Kumawat**
 
-Chemical Engineering Undergraduate | Data Analytics Enthusiast
+Electronics And Communication Engineering Undergraduate | Data Analytics Enthusiast
